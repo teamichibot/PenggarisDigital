@@ -2,7 +2,6 @@
 
 Proyek ini adalah alat pengukur jarak digital berbasis **Arduino Nano** yang menggunakan **sensor ultrasonik HC-SR04** untuk mengukur jarak dan menampilkannya di **OLED SSD1306 (I2C, 128x32)**. Rangkaian ini juga menggunakan **modul TP4056 dengan boost converter 5V** untuk daya dari **baterai LiPo**.
 
-![Wiring Diagram](wiring_diagram.jpg)
 
 ---
 
@@ -27,7 +26,7 @@ Proyek ini adalah alat pengukur jarak digital berbasis **Arduino Nano** yang men
 | 6   | PCB Lubang 4x6 cm                 | 1      | [Shopee](https://s.shopee.co.id/9UmlXvhaZV) |
 | 7   | Sakelar Geser Slide Switch SS-12D10 | 1      | [Shopee](https://s.shopee.co.id/8pX4kmm5uX) |
 | 8   | Heatsink 9x9x5 mm                 | 1      | [Shopee](https://s.shopee.co.id/4q0vzu7H7b) |
-| 9   | Kabel Jumper                      | -      | - |
+| 9   | Kabel Jumper                      | -      | [Shopee](https://shopee.co.id/ichibot) |
 
 ---
 
@@ -136,6 +135,8 @@ void loop() {
 
   delay(1000);
 }
+```
+
 ⚙️ Cara Menggunakan
 1️⃣ Pasang semua komponen sesuai skema rangkaian di atas.
 2️⃣ Sambungkan Arduino Nano ke PC dan unggah kode di atas menggunakan Arduino IDE.
