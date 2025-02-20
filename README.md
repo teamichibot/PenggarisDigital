@@ -29,6 +29,9 @@ Proyek ini adalah alat pengukur jarak digital berbasis **Arduino Nano** yang men
 | 9   | Kabel Jumper                      | -      | [Shopee](https://shopee.co.id/ichibot) |
 
 ---
+## Beli Penggaris Digital sudah jadi tinggal pakai : 
+[Shopee](https://s.shopee.co.id/6AWJn7Lw6y)
+---
 
 ## ⚡ Skema Rangkaian
 ### 1️⃣ Koneksi HC-SR04 ke Arduino Nano
