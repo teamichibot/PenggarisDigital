@@ -31,6 +31,7 @@ Proyek ini adalah alat pengukur jarak digital berbasis **Arduino Nano** yang men
 ---
 ## Beli Penggaris Digital sudah jadi tinggal pakai : 
 [Shopee](https://s.shopee.co.id/6AWJn7Lw6y)
+
 ---
 
 ## ⚡ Skema Rangkaian
