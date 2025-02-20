@@ -2,7 +2,7 @@
 
 Proyek ini adalah alat pengukur jarak digital berbasis **Arduino Nano** yang menggunakan **sensor ultrasonik HC-SR04** untuk mengukur jarak dan menampilkannya di **OLED SSD1306 (I2C, 128x32)**. Rangkaian ini juga menggunakan **modul TP4056 dengan boost converter 5V** untuk daya dari **baterai LiPo**.
 
-
+![[Wiring Diagram]([wiring_diagram.jpg](https://github.com/teamichibot/PenggarisDigital/blob/main/ICHIBOT.png))](https://github.com/teamichibot/PenggarisDigital/blob/main/ICHIBOT.png)
 ---
 
 ## 📋 Fitur
